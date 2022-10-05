@@ -13,7 +13,7 @@
     </a></p>
     {{ else }}
     <h1 class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">
-      {{ if .Site.Params.logo }}<img src="{{ .Site.Params.logo }}">
+      {{ if .Site.Params.logo }}<img style="max-width:{{ .Site.Params.logoMaxWidth }}px" src="{{ .Site.Params.logo }}">
       {{ else }}{{ .Site.Title }}
       {{ end }}
     </a></h1>
