@@ -1,0 +1,62 @@
+baseurl = "/"
+languageCode = "fr-fr"
+Title = "Wop"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Wop"
+custom_css = "/static/css/custom.css"
+theme = "hugo_theme_pickles"
+
+# Use our Google Analytics G4A tag. The 'G-' at the beginning lets Hugo know
+# that this is G4A, rather than 'UA-'.
+# googleAnalytics = ""
+
+# Allow Markdown to contain HTML (this is used for tables, some URLs etc.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[Params]
+    paginate = 10
+    mainSections = ["post"]
+    intro = true
+    headline = "Wop"
+    logo = "https://wop.studio/Hiring_files/wop.png"
+    logoMaxWidth = "150"
+    avatar = "https://media-exp1.licdn.com/dms/image/C5603AQG4XMW9Hwvt7w/profile-displayphoto-shrink_800_800/0/1664204981637?e=1670457600&v=beta&t=9kGNC2bhvMymXO62MvAhXO0nYM4ELsWGxCb4U1G8M5k"
+    contact = "selene@wop.studio"
+    bio = "Je suis en charge de trouver la meilleure mission à mettre en relation avec chacun de nos indépendants dans notre réseau de freelances Wop."
+    description = "Une nouvelle façon de travailler en tant qu'indépendant"
+    github = "Wild-Open"
+    linkedin = "https://www.linkedin.com/company/wop-studio/"
+    # twitter = ""
+    # stackoverflow = ""
+    # facebook = "https://www.facebook.com/username"
+    email = "contact@wop.studio"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = false
+    shareLinkedIn = true
+    dateFormat = "Mon 2 Jan 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = false
+    # readingTimeText = "Estimated reading time:"
+
+[Permalinks]
+    post = "/:slug"
+
+[[menu.main]]
+    name = "À propos"
+    url = "https://wop.studio"
+    weight = 1
+
+[[menu.main]]
+    name = "Actualités"
+    url = "/"
+    weight = 2
