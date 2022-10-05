@@ -3,8 +3,8 @@ author: Selene Palin
 type: posts
 date: "2022-09-05"
 description: "Développeuse Frontend Vue"
-slug: mission-developpeuse-vue-1
-title: recrutement Développeuse Frontend/Vue
+slug: recrutement-developpeuse-vue-1
+title: Recrutement Développeuse Frontend/Vue
 categories:
 - "recrutement"
 tags:
@@ -18,18 +18,18 @@ tags:
 
 
 Votre rôle principal sera d'envisager, développer et améliorer les fonctionnalités de services déployés et déjà en place.
-Vous pourrez aussi être amené à participer au développement du site internet et d'outils annexes pour des services annexes ou de réaliser de nouveaux services.
+Vous pourrez aussi être amené à participer au **développement du site internet et d'outils annexes** pour des services annexes ou de réaliser de nouveaux services.
 
-Vous faites partie d'une petite équipe de 2 développeurs et 1 designeuse, et intégrez un équipe moyenne d'une dizaine de spécialiste dans divers métiers et de petits produits.
+Vous faites partie d'une **petite équipe** de 2 développeurs et 1 designeuse, et **intégrez un équipe moyenne** d'une dizaine de spécialiste dans divers métiers et de petits produits.
 
 Les technologies mises en œuvre au sein du projet sont :
 
-- VueJS/Nuxt pour le site internet ;
+- **VueJS/Nuxt** pour le site internet ;
 - Discourse (Ruby/EmberJS) pour le forum.
 
 ## Compétences appréciées
 
-Vous êtes familier avec :
+Vous êtes familière avec :
 
 - JavaScript côté client et côté serveur ;
 - Le front et le back en général ;
@@ -45,13 +45,13 @@ Il pourrait être intéressant si vous aviez quelques notions de :
 
 ## Modalités de travail
 
-- Début de la mission dès que possible ;
+- Début de la mission **dès que possible** ;
 - **Télétravail** essentiellement (déplacements à Paris à prévoir occasionnellement) ;
 - 3 à 5 jours par semaine ;
 - mission **sur 6 mois** renouvelable.
 
 Tout en restant freelance, vos bénéfices :
-- rémunération mensuelle avec **paiement très rapide** ;
+- rémunération mensuelle avec **paiement immédiat** ;
 - **jours fériés payés** à 100% ;
 - jours de **congés/maladie/bénévolat payés** à 50% ;
 - carte d’entreprise pour une **prise en charge des frais** ;
@@ -71,6 +71,6 @@ Tout en restant freelance, vos bénéfices :
 
 ## Pour postuler
 
-1. vous nous contactez et nous nous accordons ensemble sur les modalités
+1. nous accordons ensemble sur les [conditions de collaboration](/blog/conditions-de-collaboration.pdf)
 2. nous vous mettons en relation avec le porteur/client et vous passez les entretiens en tant que prestataire Wop
 3. ça y'est, on commence la mission !
