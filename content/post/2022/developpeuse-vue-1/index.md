@@ -71,6 +71,6 @@ Tout en restant freelance, vos bénéfices :
 
 ## Pour postuler
 
-1. nous accordons ensemble sur les [conditions de collaboration](/blog/conditions-de-collaboration.pdf)
+1. vous consultez les [conditions de collaboration](/blog/conditions-de-collaboration.pdf) et nous convenons d'un accord
 2. nous vous mettons en relation avec le porteur/client et vous passez les entretiens en tant que prestataire Wop
 3. ça y'est, on commence la mission !
