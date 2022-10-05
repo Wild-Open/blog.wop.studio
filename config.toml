@@ -8,7 +8,7 @@ theme = "hugo_theme_pickles"
 
 # Use our Google Analytics G4A tag. The 'G-' at the beginning lets Hugo know
 # that this is G4A, rather than 'UA-'.
-# googleAnalytics = ""
+googleAnalytics = "G-W37H37J15G"
 
 # Allow Markdown to contain HTML (this is used for tables, some URLs etc.
 [markup]
