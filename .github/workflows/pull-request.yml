@@ -20,7 +20,7 @@ jobs:
         # extended: true
 
     - name: Build
-      working-directory: ./dwmkerr.com
+      working-directory: .
       run: hugo --minify
 
     - name: Deploy
@@ -28,4 +28,4 @@ jobs:
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./dwmkerr.com/public
+        PUBLISH_DIR: ./public
