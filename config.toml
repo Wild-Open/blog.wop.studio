@@ -1,8 +1,8 @@
 baseurl = "/blog"
 languageCode = "fr-fr"
-Title = "Wop"
+Title = "Wop, la nouvelle façon d'être Freelance"
 # Copyright notice. This is displayer in the footer.
-copyright = "&copy; Wop"
+copyright = "&copy; Wop Limited Company"
 custom_css = "/static/css/custom.css"
 theme = "hugo_theme_pickles"
 
@@ -20,7 +20,7 @@ theme = "hugo_theme_pickles"
     paginate = 10
     mainSections = ["post"]
     intro = true
-    headline = "Wop"
+    headline = "Wop, la nouvelle façon d'être Freelance"
     logo = "https://wop.studio/Hiring_files/wop.png"
     logoMaxWidth = "150"
     avatar = "https://media-exp1.licdn.com/dms/image/C5603AQG4XMW9Hwvt7w/profile-displayphoto-shrink_800_800/0/1664204981637?e=1670457600&v=beta&t=9kGNC2bhvMymXO62MvAhXO0nYM4ELsWGxCb4U1G8M5k"
