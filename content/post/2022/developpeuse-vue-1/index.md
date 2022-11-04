@@ -45,17 +45,22 @@ Il pourrait être intéressant si vous aviez quelques notions de :
 
 ## Modalités de travail
 
+**Les conditions suivantes sont bien pour des freelances**
+
 - Début de la mission **dès que possible** ;
 - **Télétravail** essentiellement (déplacements à Paris à prévoir occasionnellement) ;
 - 3 à 5 jours par semaine ;
 - mission **sur 6 mois** renouvelable.
 
-Tout en restant freelance, vos bénéfices :
+Tout en restant freelance, vos bénéfices Wop :
+
 - rémunération mensuelle avec **paiement immédiat** ;
 - **jours fériés payés** à 100% ;
 - jours de **congés/maladie/bénévolat payés** à 50% ;
 - carte d’entreprise pour une **prise en charge des frais** ;
 - **1% reversé à une asso** de votre choix.
+
+Découvrir les [conditions Wop](https://wop.studio).
 
 **Les rémunérations mensuelles** en fonction du profil (HT) :
 
